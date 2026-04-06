@@ -1,0 +1,16 @@
+D:\Code\ComputerGraphics\cubic_spline_Task3\bin\Debug\net10.0-windows\cubic_spline_Task3.exe
+D:\Code\ComputerGraphics\cubic_spline_Task3\bin\Debug\net10.0-windows\cubic_spline_Task3.deps.json
+D:\Code\ComputerGraphics\cubic_spline_Task3\bin\Debug\net10.0-windows\cubic_spline_Task3.runtimeconfig.json
+D:\Code\ComputerGraphics\cubic_spline_Task3\bin\Debug\net10.0-windows\cubic_spline_Task3.dll
+D:\Code\ComputerGraphics\cubic_spline_Task3\bin\Debug\net10.0-windows\cubic_spline_Task3.pdb
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.Form1.resources
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.csproj.GenerateResource.cache
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.AssemblyInfoInputs.cache
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.AssemblyInfo.cs
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.csproj.CoreCompileInputs.cache
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.dll
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\refint\cubic_spline_Task3.dll
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.pdb
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\cubic_spline_Task3.genruntimeconfig.cache
+D:\Code\ComputerGraphics\cubic_spline_Task3\obj\Debug\net10.0-windows\ref\cubic_spline_Task3.dll
