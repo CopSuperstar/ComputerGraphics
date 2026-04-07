@@ -1,0 +1,17 @@
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\Task4BezierSurface.exe
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\Task4BezierSurface.deps.json
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\Task4BezierSurface.runtimeconfig.json
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\Task4BezierSurface.dll
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\Task4BezierSurface.pdb
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.Form1.resources
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.csproj.GenerateResource.cache
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.AssemblyInfoInputs.cache
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.AssemblyInfo.cs
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.csproj.CoreCompileInputs.cache
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.dll
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\refint\Task4BezierSurface.dll
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.pdb
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\Task4BezierSurface.genruntimeconfig.cache
+D:\Code\ComputerGraphics\Task4BezierSurface\obj\Debug\net10.0-windows\ref\Task4BezierSurface.dll
+D:\Code\ComputerGraphics\Task4BezierSurface\bin\Debug\net10.0-windows\points.txt
